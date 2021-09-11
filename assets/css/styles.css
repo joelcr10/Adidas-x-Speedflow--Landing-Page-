@@ -291,6 +291,7 @@ footer {
     display: flex;
     flex-direction: column;
     padding-bottom: 3%;
+    padding-left: 0;
   }
 }
 
