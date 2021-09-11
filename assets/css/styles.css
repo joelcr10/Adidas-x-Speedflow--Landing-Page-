@@ -279,7 +279,7 @@ footer {
 
 @media (max-width: 768px) {
   #right-img {
-    display: none;
+/*     display: none; */
   }
 }
 
@@ -292,6 +292,7 @@ footer {
     flex-direction: column;
     padding-bottom: 3%;
     padding-left: 0;
+    width: 100%;
   }
 }
 
