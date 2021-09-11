@@ -378,6 +378,23 @@ footer {
     margin-left: 0;
   }
 }
+@media (max-width: 768px) {
+  .intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 768px) {
+  #right-img {
+    /*display: none;*/
+    width: 100%;
+    height: auto;
+  }
+}
+
+
 
 .yt-video{
   background-color: var(--bg-bg);
